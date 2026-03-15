@@ -2,12 +2,14 @@
 
 A Lovelace card for Home Assistant that displays live sports scores from the [MyScoreboard](https://github.com/viktoro/ha-myscoreboard) custom integration.
 
+![MyScoreboard Card](https://raw.githubusercontent.com/viktoro/ha-myscoreboard-card/main/screenshot.png)
+
 ## Installation
 
 ### HACS (recommended)
 
 1. Add this repository as a custom repository in HACS (category: **Lovelace**)
-2. Search for "MyScoreboard Card" and install
+2. Search for "MyScoreboard Card" and instal
 3. Refresh your browser
 
 ### Manual
